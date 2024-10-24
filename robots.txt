@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://kovutive.github.io/sitemap/sitemap_index.kovutive
+Sitemap: https://kovutive.github.io/PLS/sitemap_index.kovutive
+Sitemap: https://kovutive.github.io/Wxd/sitemap_index.kovutive
+Sitemap: https://kovutive.github.io/Vfp/sitemap_index.kovutive
+Sitemap: https://kovutive.github.io/DOy/sitemap_index.kovutive
+Sitemap: https://kovutive.github.io/tAJ/sitemap_index.kovutive
+Sitemap: https://kovutive.github.io/uTn/sitemap_index.kovutive
+Sitemap: https://kovutive.github.io/aVI/sitemap_index.kovutive
+Sitemap: https://kovutive.github.io/APh/sitemap_index.kovutive
+Sitemap: https://kovutive.github.io/AvO/sitemap_index.kovutive
+Sitemap: https://kovutive.github.io/nmI/sitemap_index.kovutive
+Sitemap: https://kovutive.github.io/bHo/sitemap_index.kovutive
+Sitemap: https://kovutive.github.io/Sso/sitemap_index.kovutive
+Sitemap: https://kovutive.github.io/FSt/sitemap_index.kovutive
+Sitemap: https://kovutive.github.io/aVm/sitemap_index.kovutive
+Sitemap: https://kovutive.github.io/ybe/sitemap_index.kovutive
+Sitemap: https://kovutive.github.io/BlJ/sitemap_index.kovutive
+Sitemap: https://kovutive.github.io/BVk/sitemap_index.kovutive
+Sitemap: https://kovutive.github.io/DdF/sitemap_index.kovutive
+Sitemap: https://kovutive.github.io/Lfr/sitemap_index.kovutive
+Sitemap: https://kovutive.github.io/xLh/sitemap_index.kovutive
